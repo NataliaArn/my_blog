@@ -5,7 +5,7 @@
     <div class="wrapper">
     
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/">Homfe</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
     </div>
